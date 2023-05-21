@@ -31,5 +31,24 @@ export class AppComponent {
       email: 'bob.smith@example.com',
       avatar: 'https://randomuser.me/api/portraits/men/3.jpg'
     }
+    
+
+
+    ,
+    {
+      name: 'Jane Doe',
+      email: 'jane.doe@example.com',
+      avatar: 'https://randomuser.me/api/portraits/women/2.jpg'
+    },
+    {
+      name: 'Bob Smith',
+      email: 'bob.smith@example.com',
+      avatar: 'https://randomuser.me/api/portraits/men/3.jpg'
+    },
+    {
+      name: 'Alice Johnson',
+      email: 'alice.johnson@example.com',
+      avatar: 'https://randomuser.me/api/portraits/women/4.jpg'
+    }
   ];
 }

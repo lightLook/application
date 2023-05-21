@@ -18,3 +18,14 @@ img {
   height: 100%;
   object-fit: cover;
 }
+
+.card-matrix {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, auto);
+  gap: 16px;
+}
+
+mat-card {
+  width: 100%;
+}
